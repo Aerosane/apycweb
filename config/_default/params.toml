@@ -81,7 +81,7 @@ mainSections = ["docs"]
   krokiURL = "https://kroki.io" # "https://kroki.io" (default) or custom URL like http://localhost:8000.
 
   # SCSS colors
-  # backGround = "yellowgreen"
+  backGround = "linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet)"
   ## Dark theme
   # textDark = "#dee2e6" # "#dee2e6" (default), "#dee2e6" (orignal), or custom color
   # accentDark = "#5d2f86" # "#5d2f86" (default), "#5d2f86" (original), or custom color
