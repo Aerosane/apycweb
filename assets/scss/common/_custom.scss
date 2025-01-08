@@ -1,1 +1,4 @@
-// Put your custom SCSS code here
+/* Light theme rainbow gradient background */
+body.light-theme {
+  background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
